@@ -1,0 +1,22 @@
+ALTER TABLE Authors AUTO_INCREMENT = 1;
+
+INSERT INTO Authors (name, address, age) VALUES ('조하윤', '서울', 36);
+INSERT INTO Authors (name, address, age) VALUES ('윤지훈', '대전', 72);
+INSERT INTO Authors (name, address, age) VALUES ('정하윤', '세종', 60);
+INSERT INTO Authors (name, address, age) VALUES ('김민수', '광주', 67);
+INSERT INTO Authors (name, address, age) VALUES ('강영수', '대전', 57);
+INSERT INTO Authors (name, address, age) VALUES ('이하윤', '강원', 52);
+INSERT INTO Authors (name, address, age) VALUES ('박민지', '강원', 45);
+INSERT INTO Authors (name, address, age) VALUES ('김지아', '울산', 69);
+INSERT INTO Authors (name, address, age) VALUES ('조현우', '인천', 73);
+INSERT INTO Authors (name, address, age) VALUES ('임하윤', '대구', 41);
+INSERT INTO Authors (name, address, age) VALUES ('조지아', '인천', 36);
+INSERT INTO Authors (name, address, age) VALUES ('정서연', '대구', 36);
+INSERT INTO Authors (name, address, age) VALUES ('최하윤', '세종', 60);
+INSERT INTO Authors (name, address, age) VALUES ('조하윤', '강원', 65);
+INSERT INTO Authors (name, address, age) VALUES ('임수연', '경기', 25);
+INSERT INTO Authors (name, address, age) VALUES ('이현우', '대구', 30);
+INSERT INTO Authors (name, address, age) VALUES ('정영하', '인천', 56);
+INSERT INTO Authors (name, address, age) VALUES ('이하윤', '세종', 26);
+INSERT INTO Authors (name, address, age) VALUES ('이현우', '광주', 63);
+INSERT INTO Authors (name, address, age) VALUES ('강영수', '대전', 59);
