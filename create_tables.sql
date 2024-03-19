@@ -19,7 +19,9 @@ CREATE TABLE Books(
     pub_year DATETIME NOT NULL,
     price INT NOT NULL,
     category_id INT,
-    FOREIGN KEY (category_id) REFERENCES Categories(category_id)
+    FOREIGN KEY (category_id) REFERENCES Categories(category_id),
+    author_id INT,
+    FOREIGN KEY (author_id) REFERENCES Authors(author_id)
 );
 
 CREATE TABLE Users(
